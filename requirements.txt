@@ -1,0 +1,13 @@
+pandas
+yfinance
+matplotlib
+numpy
+scipy
+statsmodels
+sklearn
+xgboost
+seaborn
+ipykernel
+ipympl
+jupyter
+notebook
