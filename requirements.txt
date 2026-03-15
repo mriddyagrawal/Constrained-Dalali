@@ -4,7 +4,7 @@ matplotlib
 numpy
 scipy
 statsmodels
-sklearn
+scikit-learn
 xgboost
 seaborn
 ipykernel
